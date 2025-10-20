@@ -31,4 +31,4 @@
 
 ---
 
-> _“Ngoding bukan buat pamer, tapi biar gak stres.”_ 😎
+> _“JAWA JAWA JAWA JAWA JAWA JAWA JAWA”_
