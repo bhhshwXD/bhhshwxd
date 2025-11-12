@@ -1,4 +1,4 @@
-# 👋 Halo, gua Gangsar
+# 👋 Halo
 
 > kalo lagi gabut atau sedih, biasanya buka laptop
 
