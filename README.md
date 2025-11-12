@@ -1,9 +1,5 @@
 # 👋 Halo
 
-> kalo lagi gabut atau sedih, biasanya buka laptop
-
----
-
 ### 🧠 Tentang Gua
 - 💻 Ngoprek **Python**, **C++**, sama **Linux** hampir tiap hari  
 - ⚙️ Suka utak-atik sistem, bikin script, atau nyoba hal random di terminal  
